@@ -13,5 +13,6 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+        <p><a href="ActivityController">Click here to see Activity2</a>
     </body>
 </html>
